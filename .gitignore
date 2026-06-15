@@ -1,0 +1,9 @@
+*
+!.gitignore
+!README.md
+!LICENSE
+!releases/
+!releases/v1.0.0/
+!releases/v1.0.0/轻签-v1.0.0.apk
+!releases/v1.0.0/安装说明.md
+!releases/v1.0.0/SHA256.txt
