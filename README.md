@@ -15,7 +15,7 @@
 
 ## 下载
 
-请在仓库的 [Releases](../../releases) 页面下载最新 APK。
+请在仓库的 [Releases](https://github.com/Baiwei-RTY/qingqian/releases) 页面下载最新 APK。
 
 当前版本：`v1.0.0`
 
